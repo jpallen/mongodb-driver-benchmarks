@@ -1,0 +1,3 @@
+These results show the response times of mongojs and mongoose over 10 seconds
+when finding a document containing one attribute which contains 1000 words of
+Lorem Ipsum text.
